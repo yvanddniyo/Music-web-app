@@ -4,3 +4,7 @@ export interface AlbumItems {
     desc: string,
     id: number 
 }
+
+export interface ids {
+    id: any
+}
